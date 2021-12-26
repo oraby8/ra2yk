@@ -1,1 +1,1 @@
-web: gunicorn Qapp.wsgi --log-file -
+web: gunicorn QAA.wsgi --log-file -
